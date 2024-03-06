@@ -12,6 +12,7 @@ Environment Variables:
 Update the .env file with necessary variables, including database credentials and secret keys.
 
 Features
+
 A) Product Management
 Add/Remove Products:
 Easily add or remove products from your inventory with straightforward API endpoints.
