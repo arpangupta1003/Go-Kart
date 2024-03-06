@@ -35,10 +35,10 @@ E) Authentication Middleware:
 Protect routes by implementing authentication middleware for secure access.
 
 Technologies Used
-1. Node.js: Powering the backend with its speed and scalability.
-2. Express.js: Streamlining API development.
-3. MongoDB: Efficiently storing and retrieving product and user data.
-4. JWT: Securing user authentication and authorization.
+1. `Node.js`: Powering the backend with its speed and scalability.
+2. `Express.js`: Streamlining API development.
+3. `MongoDB`: Efficiently storing and retrieving product and user data.
+4. `JWT`: Securing user authentication and authorization.
    
 Contribution Guidelines
 We welcome contributions to enhance and expand the functionality of our backend. Follow our contribution guidelines for a smooth collaboration process.
