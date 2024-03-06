@@ -3,7 +3,7 @@ Welcome to the backend of our cutting-edge E-Commerce website powered by Node.js
 
 Getting Started
 Installation:
-Clone this repository and install dependencies using npm install.
+Clone this repository and install dependencies using ### `npm install`.
 
 Configuration:
 Set up your database connection in the config.js file, ensuring smooth data storage and retrieval.
