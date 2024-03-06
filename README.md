@@ -12,39 +12,32 @@ Environment Variables:
 Update the .env file with necessary variables, including database credentials and secret keys.
 
 Features
-Product Management
+A) Product Management
 Add/Remove Products:
 Easily add or remove products from your inventory with straightforward API endpoints.
 
-Categories:
+B) Categories:
 Categorize products for better organization and user navigation.
 
-Order Processing
+C) Order Processing
 Order Handling:
 Efficient order processing with features like order confirmation and shipment tracking.
 
-Payment Integration:
-Seamlessly integrate payment gateways for secure transactions.
-
-User Authentication
+D) User Authentication
 User Registration/Login:
 Allow users to create accounts and log in securely.
 
-Authentication Middleware:
+E) Authentication Middleware:
 Protect routes by implementing authentication middleware for secure access.
 
-API Documentation
-Explore our API documentation to understand the available endpoints, request formats, and response structures. Ensure smooth integration with your frontend.
-
 Technologies Used
-Node.js: Powering the backend with its speed and scalability.
-Express: Streamlining API development.
-MongoDB: Efficiently storing and retrieving product and user data.
-JWT: Securing user authentication and authorization.
+1. Node.js: Powering the backend with its speed and scalability.
+2. Express.js: Streamlining API development.
+3. MongoDB: Efficiently storing and retrieving product and user data.
+4. JWT: Securing user authentication and authorization.
+   
 Contribution Guidelines
 We welcome contributions to enhance and expand the functionality of our backend. Follow our contribution guidelines for a smooth collaboration process.
 
-Support
-For any queries or issues, feel free to contact our support team.
 
 Happy selling! 🚀
